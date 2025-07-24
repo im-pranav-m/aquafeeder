@@ -1,6 +1,6 @@
 // WiFi Credentials
-const char* ssid = "Vsatvision _clarvo";
-const char* password = "clarvo@123";
+const char* ssid = "SSID";
+const char* password = "PASS@123";
 
 //SET TIME IN THE FOLLOWING ARRAY {"Hour:Minute"}
 String deploy_time[] = {"20:30","20:40","20:50","21:00"};//Enter in MILITARY Time...
